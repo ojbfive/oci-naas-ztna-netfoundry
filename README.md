@@ -1,8 +1,11 @@
 **Introduction**
 
-The following guide is a simple network configuration to help partners & end-users learn about the building blocks of configuring a NetFoundry network.  It will help outline each element within the NetFoundry network and provide instructions on how to configure a simple design connecting a Windows client to an application in a public Cloud on a private network.
+The following guide is intended to provide you guidance for your Oracle NetFoundry LiveLab environment. It provides simple network configuration steps to help partners & end-users learn about the building blocks of configuring a NetFoundry network.  It will help outline each element within the NetFoundry network and provide instructions on how to configure a simple design connecting a Windows client to an application in a Oracle Cloud on a private IPV4 network.
 
- 
+![](oci-naas-ztna-netfoundry/images/rfc1918.png)
+
+
+  
 
 **Assumptions**
 
