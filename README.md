@@ -16,18 +16,18 @@ To get started you'll need to have the following:
  1. A NetFoundry Account/Organization. A seven day free trial is available to all who wish to demo the NetFoundry product and OCI.
  
  <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://nfconsole.io/signup" data-color-scheme="no-preference: dark; light: light; dark: dark;" aria-label="Download ojbfive/oci-naas-ztna-netfoundry on GitHub">NetFoundry Live Lab</a>
+<a class="github-button" href="https://nfconsole.io/signup" data-color-scheme="no-preference: dark; light: light; dark: dark;" aria-label="Download ojbfive/oci-naas-ztna-netfoundry on GitHub">NetFoundry Free Trial for Live Lab</a>
  
  2. A working public cloud account with networking (such as Oracle/VCN subscription), or have the necessary privilege's to install a virtual machine and/or install software onto a machine in your on premises environment. (ESXi/Hyper-V/VirtualBox). This example will utilize Oracle Cloud Infrastructure.
  
  <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://www.oracle.com/cloud/free/" data-color-scheme="no-preference: dark; light: light; dark: dark;" aria-label="Download ojbfive/oci-naas-ztna-netfoundry on GitHub">Oracle Cloud Live Lab</a>
+<a class="github-button" href="https://www.oracle.com/cloud/free/" data-color-scheme="no-preference: dark; light: light; dark: dark;" aria-label="Download ojbfive/oci-naas-ztna-netfoundry on GitHub">Oracle Cloud Free Tier for Live Lab</a>
  
  <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/creatingnetwork.htm" data-color-scheme="no-preference: dark; light: light; dark: dark;" aria-label="Download ojbfive/oci-naas-ztna-netfoundry on GitHub">Oracle Cloud VCN Documentation for Live Lab</a>
  
  
- https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/creatingnetwork.htm
+ 
  
  3. An internet connection with outbound connections to the below ports.
 
