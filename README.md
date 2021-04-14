@@ -2,6 +2,8 @@
 ![](images/livelabs-homepage-march.png)
 
 
+![](images/NFWhiteBG.jpg)
+
 
 **NetFoundry Zero Trust Networking Introduction**
 
