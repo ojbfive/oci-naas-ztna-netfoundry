@@ -13,8 +13,9 @@ The following guide is intended to provide you guidance for your Oracle NetFound
 
 To get started you'll need to have the following:
 
- 1. A NetFoundry Account/Organization. A seven day free trial is available, sign up here.
- https://nfconsole.io/signup
+ 1. A NetFoundry Account/Organization. A seven day free trial is available to all who wish to demo the NetFoundry product and OCI.
+ 
+ <button name="button" onclick="https://nfconsole.io/signup">NetFoundry Live Lab</button>
  
  2. A working public cloud account with networking (such as Oracle/VCN subscription), or have the necessary privilege's to install a virtual machine and/or install software onto a machine in your on premises environment. (ESXi/Hyper-V/VirtualBox). This example will utilize Oracle Cloud Infrastructure.
  https://www.oracle.com/cloud/free/
