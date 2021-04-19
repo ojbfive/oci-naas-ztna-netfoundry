@@ -84,6 +84,10 @@ Next, select the VCN, subnet and assign a public IP address.  Select your public
 
 Next click "Show Advanced Options" and select Paste cloud-init script and paste the following into the field:
 
+sudo yum install httpd
+sudo systemctl enable httpd
+sudo systemctl start httpd
+
 **NOTE: you can configure the firewall to allow 80 or disable the built in instance firewall for testing.
 **
 
