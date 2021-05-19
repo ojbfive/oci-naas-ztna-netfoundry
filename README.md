@@ -98,26 +98,26 @@ sudo systemctl start httpd
 
 You should now have a running web server in your specified VCN.
 
-![](images/diag4.png)
+![](images/diag4num.png)
 
 **Steps to complete
 
-A. Create Network
+1. Create Network
 
-B. Create Hosted Edge Router
+2. Create Hosted Edge Router
 
-C. Create Edge Router Policy
+3. Create Edge Router Policy
 
-D. Create Self Hosted Edge Routers
+4. Create Self Hosted Edge Routers
 
        - Cloud Marketplace
 
-E. Create/Deploy Endpoints
+5. Create/Deploy Endpoints
 
-F. Create Services/AppWAN**
+6. Create Services/AppWAN**
 
 
-**Create Network (Steps A, B & C)**
+**Create Network (Steps 1, 2 & 3)**
 
 Once you have created your Organization after signing up for the 7 day trial or other, you are ready to create your first network. 
 
@@ -172,7 +172,7 @@ Next click the mouse into the attributes field and select the @fabricrouter you 
 ![](images/diag13.png)
 
 
-**Create Customer Hosted Edge Router (Step D)**
+**Create Customer Hosted Edge Router (Step 4)**
 
 The next element we will deploy is the Edge Router in the customer VCN containing the WebApp we created for this exercise. From the NetFoundry console, in the Manage Edge Routers tab(section), let's create a new Edge Router. Provide a name representing something like "customer-location-edge",
 
@@ -215,7 +215,7 @@ Once registered, you should now have 2 Edge Routers up and running in your Netwo
 ![](images/diag19.png)
 
 
-**Create Endpoint for user access - Windows (Step E)**
+**Create Endpoint for user access - Windows (Step 5)**
 
  
 
@@ -268,7 +268,7 @@ Returning back to the NetFoundry console and the Endpoints page. You will see yo
 ![](images/diag26.png)
 
 
-**Create Services and AppWAN (Step F)**
+**Create Services and AppWAN (Step 6)**
 
 The final step is to create a service for the web app in our VCN and to build an AppWAN to allow our endpoint (mylaptop) access to this service (port 80) on the private VCN IP address. The customer edge router will be used to terminate the service as show in this example. From the NetFoundry dashboard, select services from either location and hit the + sign in the upper right corner.
 
